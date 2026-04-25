@@ -46,7 +46,7 @@ This project presents an interactive **Ecommerce Sales Dashboard** built using P
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anujshakya31/Ecommerce-Sales-Dashboard/main/ECommerce%20Sales%20Dashboard.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/anujshakya31/Ecommerce-Sales-Dashboard/main/Sales%20Dashboard.png" width="900"/>
 </p>
 
 ---
